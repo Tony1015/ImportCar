@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  TNUnderLineButton.h
 //  ImportCar
 //
-//  Created by Tony on 2017/8/28.
+//  Created by Tony on 2017/9/7.
 //  Copyright © 2017年 刘迪诗. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TNUnderLineButton : UIButton
 
 @end
-
